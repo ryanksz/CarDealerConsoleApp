@@ -1,10 +1,6 @@
 /*
 Car inventory system
-Cs 2110 project
-
-Ryan Kaszubski
-gn2289
- 
+Ryan Kaszubski 
 */
 
 #include <cstdlib>
